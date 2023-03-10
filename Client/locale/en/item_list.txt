@@ -1,0 +1,3 @@
+72734	ETC	icon/item/72734.tga
+72735	ETC	icon/item/72735.tga
+72737	ETC	icon/item/72737.tga

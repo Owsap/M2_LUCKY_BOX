@@ -1,0 +1,3 @@
+TOOLTIP_REST_USABLE_COUNT	Left: %d
+LUCKY_BOX_DIALOG_RECV_TEXT	Do you want to accept the item?
+LUCKY_BOX_DIALOG_RETRY_TEXT	Do you want to try your luck again?

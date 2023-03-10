@@ -1,8 +1,3 @@
-### Lucky Box
-Original author of the system is @blackdragonx61
-
-The group file now contains a mapper that allows you add any box with it's relative group.
-```txt
 Group LuckyBoxMapper
 {
 	#--#	BoxVNum	GroupName
@@ -37,5 +32,3 @@ Group LuckyBox
 		3	27102	70
 	}
 }
-```
-The implementation also includes the item type **Gacha** and also includes support for the slot marking in the inventory.

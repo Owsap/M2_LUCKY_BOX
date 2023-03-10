@@ -1,0 +1,5 @@
+LUCKY_BOX_NOTICE_YANG	Yang fee for new item fortune
+LUCKY_BOX_RECV_BUTTON	Accept Item
+LUCKY_BOX_RECV_NAME	Contents:
+LUCKY_BOX_RETRY_BUTTON	New Item Fortune
+LUCKY_BOX_TITLE_NAME	Fortune Chest
